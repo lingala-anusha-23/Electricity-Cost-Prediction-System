@@ -65,7 +65,8 @@ The system displays:
 - **📂 Data**: Uses electricity cost dataset with building and environmental metrics
 
 ## 📸 Screenshots
-![App Screenshot](.screenshot/Electricity Cost Prediction_Streamlit App.png)
+### 📱 Here's a screenshot of my app:
+<img width="1919" height="1079" alt="Electricity Cost Prediction_Streamlit App" src="https://github.com/user-attachments/assets/6da531d3-8a44-44ca-a38e-318572f5b677" />
 
 ## 📜 License
 MIT License
