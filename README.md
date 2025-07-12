@@ -100,10 +100,3 @@ Pillow==9.4.0
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 🙏 Acknowledgments
-- Thanks to all open source contributors
-- Special thanks to my mentors
-- Inspired by sustainable energy projects 🌱
-
-This emoji-filled README makes your project more engaging and visually appealing while maintaining all the important information! ✨
