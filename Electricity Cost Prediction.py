@@ -7,6 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 import joblib
 
+
 def load_and_preprocess_data(filepath):
     # Load the dataset
     df = pd.read_csv(filepath)
@@ -68,7 +69,7 @@ def save_models_and_scalers(models, scaler, le):
 
 def main():
     # File path to your dataset
-    filepath =(r"C:\Users\Lingala Anusha\OneDrive\Desktop\electricity_cost_dataset.csv")
+    filepath =(r"C:\Users\Lingala Anusha\OneDrive\Desktop\AICTE INTERNSHIPS\Aicte Microsoft AI Azure Internship\Electricity Cost Prediction System\electricity_cost_dataset.csv")
     
     # Load and preprocess data
     X_train, X_test, y_train, y_test, scaler, le = load_and_preprocess_data(filepath)
