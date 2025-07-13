@@ -113,7 +113,7 @@ graph TD
 ![Prediction Interface](https://github.com/user-attachments/assets/97e806b7-c4ae-4122-a28e-27d5b180891b)
 
 ### 🎥Prediction Live Video
-[![Live Demo Preview](https://raw.githubusercontent.com/lingalaanusha23/Electricity-Cost-Prediction-System/main/assets/demo-preview.gif)](Electricity Cost Prediction System Live VIdeo Demo)
+[![Live Demo Preview](https://raw.githubusercontent.com/lingalaanusha23/Electricity-Cost-Prediction-System/main/assets/demo.gif)](https://github.com/user-attachments/assets/b771654b-26e1-4126-aeb5-9cd45f9ea609)
 
 ## 📜 License
 MIT License
